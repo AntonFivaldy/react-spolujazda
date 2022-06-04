@@ -5,7 +5,7 @@ odobrany
 pridany
 pridane A simple Carpool App developed with React & Redux!!
 
-****No longer maintained.**
+**No longer maintained.**
 
 # Quick Links
 1. [Screenshots](#screenshots)
