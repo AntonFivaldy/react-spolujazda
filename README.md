@@ -1,5 +1,6 @@
 # React-Carpool-App
 -local in branch
+pridane v branch local in branch
 zmeneny -remote change 1
 odobrany
 pridany
