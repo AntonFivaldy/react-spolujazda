@@ -3,9 +3,9 @@
 zmeneny -remote change 1
 odobrany
 pridany
-A simple Carpool App developed with React & Redux!!
+pridane A simple Carpool App developed with React & Redux!!
 
-**No longer maintained.**
+****No longer maintained.**
 
 # Quick Links
 1. [Screenshots](#screenshots)
