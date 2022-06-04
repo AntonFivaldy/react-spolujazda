@@ -1,8 +1,10 @@
 # React-Carpool-App
 -local in branch
 pridane v branch local in branch
-odobrany
-pridany
+
+
+asfasfsaas
+fasffasfas
 
 
 **No longer maintained.**
