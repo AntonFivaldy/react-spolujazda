@@ -1,6 +1,7 @@
 # React-Carpool-App
 -local in branch
-- remote change
+-remote change 1
+-remote change 2
 
 A simple Carpool App developed with React & Redux!!
 
