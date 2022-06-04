@@ -3,10 +3,12 @@
 pridane v branch local in branch
 odobrany
 pridany
-pridane A simple Carpool App developed with React & Redux!!
+
 
 **No longer maintained.**
 
+
+444
 # Quick Links
 1. [Screenshots](#screenshots)
 2. [Usage](#usage)
